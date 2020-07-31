@@ -1,0 +1,72 @@
+UserBenchmarks: Game 47%, Desk 63%, Work 39%
+CPU: AMD Ryzen 3 2200G - 66.8%
+GPU: Nvidia GTX 970 - 47%
+SSD: WDC WDS500G2B0A 500GB - 95.2%
+HDD: WD Green 1TB (2009) - 49.6%
+RAM: Corsair Vengeance LPX DDR4 2666 C16 2x8GB - 39.9%
+MBD: Gigabyte B450M DS3H
+
+UserBenchmarks: Game 48%, Desk 63%, Work 37%
+CPU: AMD Ryzen 3 2200G - 67.7%
+GPU: Nvidia GTX 970 - 48.5%
+SSD: WDC WDS500G2B0A 500GB - 91.1%
+HDD: WD Green 1TB (2009) - 44.8%
+RAM: Corsair Vengeance LPX DDR4 2666 C16 2x8GB - 40.6%
+MBD: Gigabyte B450M DS3H
+
+UserBenchmarks: Game 57%, Desk 65%, Work 41%
+CPU: AMD Ryzen 3 2200G - 67.1%
+GPU: Nvidia GTX 1650S (Super) - 58.9%
+SSD: WDC WDS500G2B0A 500GB - 101.8%
+HDD: WD Green 1TB (2009) - 48.8%
+RAM: Corsair Vengeance LPX DDR4 2666 C16 2x8GB - 41.9%
+MBD: Gigabyte B450M DS3H
+
+UserBenchmarks: Game 65%, Desk 63%, Work 39%
+CPU: AMD Ryzen 3 2200G - 67%
+GPU: Nvidia GTX 1660S (Super) - 70.1%
+SSD: WDC WDS500G2B0A 500GB - 86.5%
+HDD: WD Green 1TB (2009) - 45.7%
+RAM: Corsair Vengeance LPX DDR4 2666 C16 2x8GB - 40.7%
+MBD: Gigabyte B450M DS3H
+
+UserBenchmarks: Game 65%, Desk 60%, Work 58%
+CPU: AMD Ryzen 5 3600 - 80.8%
+GPU: Nvidia GTX 1660S (Super) - 69.8%
+SSD: WDC WDS500G2B0A 500GB - 91.6%
+HDD: WD Green 1TB (2009) - 48.7%
+RAM: Corsair Vengeance LPX DDR4 2666 C16 2x8GB - 41.9%
+MBD: Gigabyte B450M DS3H
+
+Monitor AOC 24" 24B1
+
+2666 CORSAIR 8GB 1Rx8 CMK16GX4M2A2666C16 ver5.30 DS Hynix 16-18-18-35 1.2v v V V v 2133
+
+UserBenchmarks: Game 65%, Desk 81%, Work 73%
+CPU: AMD Ryzen 5 3600 - 81.3%
+GPU: Nvidia GTX 1660S (Super) - 66.4%
+SSD: WDC WDS500G2B0A 500GB - 111.1%
+HDD: WD Green 1TB (2009) - 45.9%
+RAM: Corsair Vengeance LPX DDR4 2666 C16 2x8GB - 42.3%
+MBD: Gigabyte B450M DS3H
+
+AMD Ryzen 5 3600 = system memory specification 3200 MHz
+Support for DDR4 3600(O.C.)/3466(O.C.)/3200(O.C.)/2933/2667/2400/2133 MHz memory modules
+
+UserBenchmarks: Game 65%, Desk 78%, Work 71%
+CPU: AMD Ryzen 5 3600 - 79.4%
+GPU: Nvidia GTX 1660S (Super) - 67.1%
+SSD: Kingston SA2000M8500G 500GB - 188.9%
+SSD: WDC WDS500G2B0A 500GB - 98.9%
+HDD: WD Green 1TB (2009) - 45.5%
+RAM: Corsair Vengeance LPX DDR4 2666 C16 2x8GB - 69.9%
+MBD: Gigabyte B450M DS3H
+
+UserBenchmarks: Game 70%, Desk 107%, Work 88%
+CPU: AMD Ryzen 5 3600 - 83.5%
+GPU: Nvidia GTX 1660S (Super) - 67.3%
+SSD: Kingston SA2000M8500G 500GB - 218.1%
+SSD: WDC WDS500G2B0A 500GB - 119.4%
+HDD: WD Green 1TB (2009) - 44.8%
+RAM: Corsair Vengeance LPX DDR4 2666 C16 2x8GB - 81.4%
+MBD: Gigabyte B450M DS3H
